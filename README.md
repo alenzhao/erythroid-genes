@@ -2,8 +2,8 @@ This [Jupyter](http://jupyter.org/) notebook documents the process of creating
 sets of mouse erythroid genes based on published papers and the human orthologs
 of these genes.
 
-See the [notebook](erythroid-gene-lists.ipynb) for details, and the data
-directory for the gene lists themselves.
+See the [notebook](erythroid-gene-lists.ipynb) for details, and the [gene lists
+directory](gene-lists) for the gene lists themselves.
 
 If you would like to reproduce these results, you will need to install
 prerequisites. The easiest way is to use
