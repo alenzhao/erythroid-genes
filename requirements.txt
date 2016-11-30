@@ -1,0 +1,4 @@
+jupyter
+mygene
+xlrd
+pandas
